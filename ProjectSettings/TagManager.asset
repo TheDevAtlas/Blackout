@@ -7,6 +7,11 @@ TagManager:
   - PlaceCamera
   - PlaceGenerator
   - CameraViewer
+  - House
+  - Window
+  - Patrol
+  - Enemy
+  - Forrest
   layers:
   - Default
   - TransparentFX
